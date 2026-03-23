@@ -1,8 +1,14 @@
 ## Hi, I'm Resham Gupta 👋
 
 🎓 B.Tech (CSE) Student  
-💻 Java | DSA | Web Development  
+💻 Java | DSA | LeetCode  
 🚀 Passionate about problem solving & building real-world projects  
+
+---
+
+## 🔗 Connect with Me
+
+- 💡 LeetCode: https://leetcode.com/u/reshamgupta_13/
 
 ---
 
@@ -74,7 +80,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/reshamgupta13?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/reshamgupta_13?theme=dark&font=baloo)
 
 ---
 
