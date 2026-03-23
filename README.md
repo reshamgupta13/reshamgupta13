@@ -86,9 +86,10 @@
 
 ## 📊 Tech Stack
 
-- 💻 Java, JavaScript  
-- 🌐 HTML, CSS  
-- 🛠 Git, GitHub, VS Code  
+- 💻 Java, Python  
+- 🌐 HTML, CSS , Bootstrap 
+- 🛠 Git, GitHub, VS Code
+- 🌐Database(MySQL), OOPs, Networking 
 
 ---
 
