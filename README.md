@@ -62,8 +62,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=React_Portfolio&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/reshamgupta13/Ayodhya-The-Saryu-Teere">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Ayodhya-The-Saryu-Teere&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/reshamgupta13/Ayodhya-The-Saryu-Teere-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Ayodhya-The-Saryu-Teere-&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
