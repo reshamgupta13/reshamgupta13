@@ -31,7 +31,7 @@
   </a>
   
   <a href="https://github.com/reshamgupta13/Web_Vulnerability_Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=cdc_problem&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Web_Vulnerability_Scanner&theme=tokyonight&hide_border=true" />
   </a>
   
   <a href="https://github.com/reshamgupta13/cdc_problem">
