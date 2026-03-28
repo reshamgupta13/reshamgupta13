@@ -27,11 +27,11 @@
 
 <p align="center">
   <a href="https://github.com/reshamgupta13/leetcode_solution">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=leetcode_solution&theme=tokyonight&hide_border=true&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=leetcode_solution&theme=tokyonight&hide_border=true" />
   </a>
   
   <a href=" https://github.com/reshamgupta13/Web_Vulnerability_Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Web_Vulnerability_Scanner&theme=tokyonight&hide_border=true&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Web_Vulnerability_Scanner&theme=tokyonight&hide_border=true" />
   </a>
   
   <a href="https://github.com/reshamgupta13/cdc_problem">
@@ -39,15 +39,15 @@
   </a>
 
   <a href="https://github.com/reshamgupta13/LearnDSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=LearnDSA&theme=tokyonight&hide_border=true&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=LearnDSA&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/reshamgupta13/Java_code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Java_code&theme=tokyonight&hide_border=true&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Java_code&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/reshamgupta13/Crop-Advisory-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Crop-Advisory-System&theme=tokyonight&hide_border=true&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Crop-Advisory-System&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/reshamgupta13/AR-VR-Project">
