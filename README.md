@@ -22,49 +22,53 @@
 - 🌲 Recursion  
 
 ---
+---
+
+## 📂 Problem Solving Repositories
+
+🔗 **LeetCode Solutions**  
+👉 https://github.com/reshamgupta13/leetcode_solution  
+
+🔗 **Learn DSA**  
+👉 https://github.com/reshamgupta13/LearnDSA  
+
+---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/reshamgupta13/leetcode_solution">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=leetcode_solution&theme=tokyonight&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/reshamgupta13/Web_Vulnerability_Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Web_Vulnerability_Scanner&theme=tokyonight&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/reshamgupta13/cdc_problem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=cdc_problem&theme=tokyonight&hide_border=true" />
-  </a>
+### 🌐 Web Vulnerability Scanner
+🔗 https://github.com/reshamgupta13/Web_Vulnerability_Scanner
 
-  <a href="https://github.com/reshamgupta13/LearnDSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=LearnDSA&theme=tokyonight&hide_border=true" />
-  </a>
+### 👨‍💼 Smart Local Business Booster
+🔗 https://github.com/reshamgupta13/Smart-Local-Business-Booster
 
-  <a href="https://github.com/reshamgupta13/Java_code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Java_code&theme=tokyonight&hide_border=true" />
-  </a>
+### 🌾 Crop Advisory System
+🔗 https://github.com/reshamgupta13/Crop-Advisory-System
 
-  <a href="https://github.com/reshamgupta13/Crop-Advisory-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Crop-Advisory-System&theme=tokyonight&hide_border=true" />
-  </a>
+ ### 🤖 AR/VR Project
+🔗 https://github.com/reshamgupta13/AR-VR-Project
 
-  <a href="https://github.com/reshamgupta13/AR-VR-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=AR-VR-Project&theme=tokyonight&hide_border=true" />
-  </a>
+### 📚 College Recommendation System
+🔗 https://github.com/reshamgupta13/College_Recommendation
 
-  <a href="https://github.com/reshamgupta13/College_Recommendation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=College_Recommendation&theme=tokyonight&hide_border=true" />
-  </a>
+### 📚 Ayodhya The Saryu Teere
+🔗 https://github.com/reshamgupta13/Ayodhya-The-Saryu-Teere-
 
-  <a href="https://github.com/reshamgupta13/React_Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=React_Portfolio&theme=tokyonight&hide_border=true" />
-  </a>
 
-  <a href="https://github.com/reshamgupta13/Ayodhya-The-Saryu-Teere-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reshamgupta13&repo=Ayodhya-The-Saryu-Teere-&theme=tokyonight&hide_border=true" />
-  </a>
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Servlet-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </p>
 
 ---
