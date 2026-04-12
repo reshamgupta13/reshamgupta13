@@ -58,9 +58,8 @@
 
 <p>
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Servlet-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOPs-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CyberSecurity-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
