@@ -22,7 +22,6 @@
 - 🌲 Recursion  
 
 ---
----
 
 ## 📂 Problem Solving Repositories
 
@@ -51,7 +50,7 @@
 ### 📚 College Recommendation System
 🔗 https://github.com/reshamgupta13/College_Recommendation
 
-### 📚 Ayodhya The Saryu Teere
+### 🛕 Ayodhya The Saryu Teere
 🔗 https://github.com/reshamgupta13/Ayodhya-The-Saryu-Teere-
 
 
