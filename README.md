@@ -1,7 +1,7 @@
 ## Hi, I'm Resham Gupta 👋
 
 🎓 B.Tech (CSE) Student  
-💻 Java | DSA | LeetCode  
+💻 Java | DSA | SAP-ABAP | LeetCode   
 🚀 Passionate about problem solving & building real-world projects 
 ### 🌐PORTFOLIO
 👉 https://reactviteportfolio-iota.vercel.app
