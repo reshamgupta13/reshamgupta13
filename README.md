@@ -102,7 +102,7 @@
 
 ## 📊 GitHub Activity Graph
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=reshamgupta13&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reshamgupta13&theme=tokyo-night)
 
 ---
 
