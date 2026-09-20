@@ -37,6 +37,10 @@
 
 ## 🚀 Featured Projects
 
+### 🌐 RE:WORK 
+AI-Powered Inclusive Workforce Recomposition Engine
+🔗 https://github.com/reshamgupta13/SAP-RE-WORK
+
 ### 🌐 Web Vulnerability Scanner
 🔗 https://github.com/reshamgupta13/Web_Vulnerability_Scanner
 
@@ -94,7 +98,7 @@
 
 ## 📊 Tech Stack
 
-- 💻 Java, Python  
+- 💻 Java, Python, SAP ABAP 
 - 🌐 HTML, CSS , Bootstrap 
 - 🛠 Git, GitHub, VS Code
 - 🌐Database(MySQL), OOPs, Networking 
