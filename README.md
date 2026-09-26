@@ -41,6 +41,9 @@
 ## AI-Powered Inclusive Workforce Recomposition Engine
 🔗 https://github.com/reshamgupta13/SAP-RE-WORK
 
+### 🛠️ TaskFlow Pro
+🔗 https://github.com/reshamgupta13/TaskFlow_Pro.git
+
 ### 🌐 Web Vulnerability Scanner
 🔗 https://github.com/reshamgupta13/Web_Vulnerability_Scanner
 
@@ -97,12 +100,6 @@
 - 🌐 HTML, CSS , Bootstrap 
 - 🛠 Git, GitHub, VS Code
 - 🌐Database(MySQL), OOPs, Networking 
-
----
-
-## 📊 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reshamgupta13&theme=tokyo-night)
 
 ---
 
